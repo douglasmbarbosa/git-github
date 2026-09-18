@@ -1,0 +1,1 @@
+Esse é um exemplo de arquivo de documentação para apresentação do git e github. 
